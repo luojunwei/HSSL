@@ -1,2 +1,2 @@
-# SSL
-Scaffolding using short and long reads
+# HSSL
+A hybrid scaffolding algorithm using short paired reads and long reads
